@@ -40,3 +40,17 @@ Note:
 
 This description focuses on the "Add Expense" page specifically. You can combine this with the description for the main project to provide a more comprehensive overview.
 Remember to replace the bracketed sections with the actual technologies and frameworks you used in your project.
+
+
+**step to run**
+1] open file explore cearte a floder[like e.g codepen].
+
+
+2] open vs code save the file html ,style,script in that floder.
+
+
+3] also inside the floder create one floder images to store image.
+
+4] run the index on the browser .
+
+5] output will displayed. 
