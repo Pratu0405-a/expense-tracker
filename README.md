@@ -54,3 +54,6 @@ Remember to replace the bracketed sections with the actual technologies and fram
 4] run the index on the browser .
 
 5] output will displayed. 
+
+**Output**
+
